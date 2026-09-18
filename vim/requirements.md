@@ -3,7 +3,6 @@
 Vim is a unix terminal text editor, featuring many keyboard shortcuts, but easily forgotten.
 
 Cheat-sheets are available online, but they cannot be customized.
-Recent features are often missing.
 
 The purpose of this post is to produce an adaptable cheat sheet
 covering keyboard shortcuts for (vi, vim, nvim)
